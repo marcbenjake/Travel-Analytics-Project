@@ -1,6 +1,8 @@
 # Travel-Analytics-Project
 This project analyzes a tourism company's customer dataset to uncover behavioral patterns, demographic segments, and conversion drivers. Nine strategic business questions are explored through interactive Tableau dashboards and supporting Excel pivot tables, culminating in data-driven recommendations for sales optimization.
 
+**Link to Dashboard - https://public.tableau.com/app/profile/marcus.jacob/viz/Milestone3-TravelAnalyticsDashboard/Dashboard**
+
 **Key Findings**
 **Age Distribution**
 
